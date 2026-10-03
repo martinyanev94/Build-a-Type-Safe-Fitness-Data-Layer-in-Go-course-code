@@ -1,0 +1,2 @@
+# Build-a-Type-Safe-Fitness-Data-Layer-in-Go-course-code
+Build a type-safe fitness data layer in Go with PostgreSQL, Docker, and sqlc. In two focused lessons, design the relational schema and generate reliable Go CRUD access for a fitness-tracking application. You’ll learn how to: - Run PostgreSQL locally with Docker - Model users, exercises, workouts, sets, and images - Apply and verify a five-table dat
